@@ -4,10 +4,7 @@ Welcome to my Data Analytics Portfolio.
 
 This repository serves as a central hub for my Excel-based data analysis projects, where I explore datasets, perform data transformations, and build interactive dashboards to uncover meaningful insights.
 
-These projects demonstrate the typical workflow of a data analyst:
-Data Cleaning → Data Modeling → Analysis → Visualization → Insights
-
-These projects reflect the typical workflow of a data analyst:   
+These projects demonstrate the typical workflow of a data analyst:    
 
 `Raw Data → Data Cleaning → Data Modeling → Analysis → Dashboard → Insights`   
 
