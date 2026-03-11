@@ -31,6 +31,8 @@ These tools allow Excel to operate similarly to business intelligence platforms 
 
 An interactive dashboard designed to explore salary data and uncover insights about compensation patterns.
 
+<img width="1597" height="714" alt="1  Dashboard" src="https://github.com/user-attachments/assets/0883c81e-de7d-4893-807d-8938cbba749e" />
+
 ### Key Highlights
 
 - Interactive filters for exploring salary trends
